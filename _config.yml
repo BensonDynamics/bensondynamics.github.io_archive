@@ -19,7 +19,7 @@ social_networks:
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
--  { name: youtube, url: '' }
+-  { name: youtube, url: 'https://www.youtube.com/channel/UCYUlgnSwwU9sCUjEA006c6Q' }
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
@@ -36,7 +36,7 @@ social_networks:
 show_categories: 1
 show_tags: 1
 show_email: 1
-show_rss: 1
+show_rss: 0
 show_comments: 1
 show_menu: 1
 fixed_sidebar: 1
