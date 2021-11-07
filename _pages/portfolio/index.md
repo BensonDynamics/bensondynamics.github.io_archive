@@ -11,6 +11,13 @@ A downloadable version can be found <a href = "/docs/Alexander Benson_CV.pdf"> h
     - Composites
     - Machining
     - Automated bonding w. cobots
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egUv1icA924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    - Automated Riveting w. cobots
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4lCq8fC7hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     - 3D printing
     - Injection molding w. robots
     - Manual assembly and bonding
@@ -130,7 +137,7 @@ Lacey, WA
 
 Bellingham, WA
 
-B.S. Manufacturing Engineering, ABET Accredited		      Mathematics Minor
+**B.S. Manufacturing Engineering, ABET Accredited**		      Mathematics Minor
 - Advanced CAD
 - Advanced CAM
 - Automation and Control
@@ -141,3 +148,29 @@ B.S. Manufacturing Engineering, ABET Accredited		      Mathematics Minor
 - Plastics Design and Manufacturing
 - Statistics with Calculus
 
+
+# Some examples of my course work, mid-masters:
+
+## On electric aerospace and superconducting motors:
+
+!(here)[/docs/eAero.pdf]
+
+## Optimization as a method for linkage design:
+
+!(here)[/docs/523link.pdf]
+
+## Optimization of a Flying Wing's Geometry
+
+!(here)[/docs/523proj.pdf]
+
+## Analysis of a 10 Bar Truss Using a Stiffness Matrix 
+
+This needs a little more introduction. The analysis used below resembles an FEA analysis, however it was computed by hand. The problem had a mesh provided, eliminating the most mathematically interesting part of an FEA process. 
+
+!(here)[/docs/566Proj.pdf]
+
+## Beamed Power
+
+A review of a semi-neglected technology that may rise to prominence in our era of cheap photovoltaics and private space ventures.
+
+!(here)[/docs/beamedPower.pdf]
