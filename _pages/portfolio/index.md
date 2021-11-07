@@ -60,7 +60,7 @@ Tool Gauge (TG) | Tacoma, WA
 - Developed software tool for tracking changes in customer purchase requests, saving hours of work every month for project managers and executives.
 - Led sprue picker (robotics) implementation of TG’s next-generation presses.
 - Designed quick-change system for sprue picker end of arm tools.
-- Programmed complicated picking operations for tools with intricate cavities
+- Programmed complicated picking operations for tools with intricate cavities.
 
  
 
@@ -71,15 +71,15 @@ Jun 2016 – Aug 2016
 City of Seattle | Seattle, WA
 - Facilitated project coordination and inter-department communication.
 - Developed procedures detecting conflicting projects in critical locations.
-- Managed and assisted communications between public and private industry stakeholders throughout the City of Seattle
+- Managed and assisted communications between public and private industry stakeholders throughout the City of Seattle.
 
 ## Teaching Assistant: Computer Assisted Machining and Computer Assisted Design
 
 Apr 2015 – Jun 2016
 
 Western Washington University | Bellingham, WA
-- Walked students through problem-solving methods when programming in G-Code, using CAD (CATIA V5), and CAM (CATIA V5 and Vericut)
-- Demonstrated troubleshooting abilities when evaluating and correcting G-Code and CAD models submitted by students
+- Walked students through problem-solving methods when programming in G-Code, using CAD (CATIA V5), and CAM (CATIA V5 and Vericut).
+- Demonstrated troubleshooting abilities when evaluating and correcting G-Code and CAD models submitted by students.
 
 
 ## Student Tutor: Physics, Chemistry, Math, and Statistics
