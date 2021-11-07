@@ -66,7 +66,7 @@ paginate: 10
 paginate_path: "/page:num/"
 
 # Conversion
-markdown: kramdown
+markdown: github
 excerpt_separator: <!--more-->
 
 # Assets Settings
