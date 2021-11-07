@@ -11,16 +11,16 @@ A downloadable version can be found <a href = "/docs/Alexander Benson_CV.pdf"> h
     - Composites
     - Machining
     - Automated bonding w. cobots
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egUv1icA924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
     - Automated Riveting w. cobots
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M4lCq8fC7hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
     - 3D printing
     - Injection molding w. robots
     - Manual assembly and bonding
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egUv1icA924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4lCq8fC7hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Experience with Engineering Analysis:
     - Statistics: 
     - Process control
