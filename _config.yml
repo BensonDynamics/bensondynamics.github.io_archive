@@ -51,7 +51,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "pluralbenson.me"
 baseurl: ""
 
 # Includes
