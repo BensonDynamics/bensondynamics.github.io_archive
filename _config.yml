@@ -52,7 +52,7 @@ defaults:
 
 # Serving
 url: "https://pluralbenson.me/"
-baseurl: "https://pluralbenson.me/"
+baseurl: ""
 
 # Includes
 include: ["_pages"]
