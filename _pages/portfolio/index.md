@@ -153,24 +153,24 @@ Bellingham, WA
 
 ## On electric aerospace and superconducting motors:
 
-!(here)[/docs/eAero.pdf]
+<embed src = "/docs/eAero.pdf" type = "application/pdf">
 
 ## Optimization as a method for linkage design:
 
-!(here)[/docs/523link.pdf]
+<embed src = /docs/523link.pdf type = "application/pdf">
 
 ## Optimization of a Flying Wing's Geometry
 
-!(here)[/docs/523proj.pdf]
+<embed src = /docs/523proj.pdf type = "application/pdf">
 
 ## Analysis of a 10 Bar Truss Using a Stiffness Matrix 
 
 This needs a little more introduction. The analysis used below resembles an FEA analysis, however it was computed by hand. The problem had a mesh provided, eliminating the most mathematically interesting part of an FEA process. 
 
-!(here)[/docs/566Proj.pdf]
+<embed src = /docs/566Proj.pdf type = "application/pdf">
 
 ## Beamed Power
 
 A review of a semi-neglected technology that may rise to prominence in our era of cheap photovoltaics and private space ventures.
 
-!(here)[/docs/beamedPower.pdf]
+<embed src = /docs/beamedPower.pdf type = "application/pdf">
