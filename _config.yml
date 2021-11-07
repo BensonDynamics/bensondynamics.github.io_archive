@@ -66,7 +66,7 @@ paginate: 10
 paginate_path: "/page:num/"
 
 # Conversion
-markdown: GFM
+markdown: kramdown
 excerpt_separator: <!--more-->
 
 # Assets Settings
