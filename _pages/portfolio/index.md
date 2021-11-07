@@ -153,24 +153,45 @@ Bellingham, WA
 
 ## On electric aerospace and superconducting motors:
 
-<embed src = "/docs/eAero.pdf" type = "application/pdf">
+<object data="/docs/eAero.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/eAero.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/eAero.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 ## Optimization as a method for linkage design:
 
-<embed src = /docs/523link.pdf type = "application/pdf">
+<object data="/docs/523link.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/523link.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/523link.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Optimization of a Flying Wing's Geometry
 
-<embed src = /docs/523proj.pdf type = "application/pdf">
+<object data="/docs/523proj.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/523proj.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/523proj.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Analysis of a 10 Bar Truss Using a Stiffness Matrix 
 
 This needs a little more introduction. The analysis used below resembles an FEA analysis, however it was computed by hand. The problem had a mesh provided, eliminating the most mathematically interesting part of an FEA process. 
 
-<embed src = /docs/566Proj.pdf type = "application/pdf">
+<object data="/docs/566Proj.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/566Proj.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/566Proj.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Beamed Power
 
 A review of a semi-neglected technology that may rise to prominence in our era of cheap photovoltaics and private space ventures.
 
-<embed src = /docs/beamedPower.pdf type = "application/pdf">
+<object data="/docs/beamedPower.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/beamedPower.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/beamedPower.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
