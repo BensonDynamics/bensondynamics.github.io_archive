@@ -160,14 +160,6 @@ Bellingham, WA
 </object>
 
 
-## Optimization as a method for linkage design:
-
-<object data="/docs/523link.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/docs/523link.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/523link.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 ## Optimization of a Flying Wing's Geometry
 
 <object data="/docs/523proj.pdf" type="application/pdf" width="700px" height="700px">
