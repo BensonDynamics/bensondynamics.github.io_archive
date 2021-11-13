@@ -14,7 +14,8 @@ I am a fan of the Jupyter ecosystem, it is an excellent tool to organize work wi
 ## Setup:
 
 Setup was composed of two parts: 
-- Building the server on AWS, which was relatively easy thanks to <a href = "https://tljh.jupyter.org/en/latest/install/amazon.html">this tutorial.</a>
+- Building the server on AWS, which was relatively easy thanks to <a href = "https://tljh.jupyter.org/en/latest/install/amazon.html">this tutorial</a>.
+- Pointing the server to <a href = "https://hub.pluralbenson.me"> hub.pluralbenson.me </a>.
 - Configuring the kernels.
 
 Configuring the kernels was a hurdle. The optimal solution would allow students to log in to the JupyterHub server and be presented with all the available interpreted kernels on the server. Unfortunately, installing multiple kernels within the same environment is likely to break that environment. The next best solution was thus to configure one environment for each language then inform the students of the commands for searching the list of virtual envs:
