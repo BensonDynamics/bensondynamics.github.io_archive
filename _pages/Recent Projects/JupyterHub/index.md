@@ -1,15 +1,17 @@
 ---
 layout: page
-title:  "Notes on Managing JupyterHub Setup on a Free AWS Server"
+title:  "Projects"
 permalink: "/Recent Projects/JupyterHub/"
 ---
 
-# Motivation:
+# Notes on Installing JupyterHub on an AWS Server
+
+## Motivation:
 As part of a class (or course, whichever you prefer) on the foundations of programming languages, I was assigned the task of finding a project related to programming languages.
 
 I am a fan of the Jupyter ecosystem, it is an excellent tool to organize work within and exporting the notebook to latex then a PDF is straightforward if time consuming. For this reason my mind went to the fact that interactive kernels for different programming languages have proliferated, many of them available to Jupyter users. The project was thus defined as creating a JupyterHub environment with multiple different kernels for students to explore.
 
-# Setup:
+## Setup:
 
 Setup was composed of two parts: 
 - Building the server on AWS, which was relatively easy thanks to <a href = "https://tljh.jupyter.org/en/latest/install/amazon.html">this tutorial.</a>
