@@ -168,8 +168,16 @@ Bellingham, WA
 ## Simulating a Piezoelectric-Haptic MEMS Actuator in Low-Frequency Vibration
 
 <object data="/docs/vibrations.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/docs/523proj.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/523proj.pdf">Download PDF</a>.</p>
+    <embed src="/docs/vibrations.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/vibrations.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## Deployment of a Jupyterhub Server
+
+<object data="/docs/Deployment of a Jupyterhub Server.pdf"" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/Deployment of a Jupyterhub Server.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/Deployment of a Jupyterhub Server.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
