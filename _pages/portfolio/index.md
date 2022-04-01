@@ -23,13 +23,17 @@ A downloadable version can be found <a href = "/docs/Alexander Benson_CV.pdf"> h
 
 - Experience with Engineering Analysis:
     - Statistics: 
-    - Process control
-    - Multivariable regression
+        - Process control
+        - Multivariable regression
     - Finite Element Analysis (FEA)	
     - Optimization
     - Design of experiments
     - Vibrations analysis
     - Elementary control systems design
+    - Electromagnetic Simulation
+    - Multiphysics Analysis
+    - EV Motor Design
+
 - Experience manufacturing in a regulated environment:
     - ANSI9100
     - ANSI/RIA 15.06
@@ -38,6 +42,7 @@ A downloadable version can be found <a href = "/docs/Alexander Benson_CV.pdf"> h
     - ISO/TS 15066
 - Experience with MATLAB, R, and Python programming.
 - Proficient in designing, assembling, and debugging tools and fixtures.
+- Proficient with ANSYS Simulation Software: Structural, Modal, Maxwell, RMxprt, and Thermal Analysis.
 - Proficient with CAD software – CATIA V5, SOLIDWORKS, AutoDesk Inventor.
 - Leadership experience demonstrated through volunteer work.
 
@@ -118,13 +123,14 @@ Jun 2015 – Jun 2016
 
 ---
 
-## Saint Martin’s University (SMU), GPA 4.0		Grad: 5.2022, Anticipated
+## Saint Martin’s University (SMU), GPA 4.0		Grad: 8.2022, Anticipated
 
 Lacey, WA
 
 **M.S. Mechanical Engineering**
 
-**Thesis:** Characterizing the Hayward-Robles Phenomena Using a Haptic Actuator
+**Thesis:**
+Methods for Improving the High-Speed Performance of an IPMSM for EV Applications
 - Electromechanical Machines
 - Control Systems Design
 - Optimization with MATLAB
@@ -159,6 +165,14 @@ Bellingham, WA
     </embed>
 </object>
 
+## Simulating a Piezoelectric-Haptic MEMS Actuator in Low-Frequency Vibration
+
+<object data="/docs/vibrations.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/523proj.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/523proj.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 ## Optimization of a Flying Wing's Geometry
 
@@ -167,6 +181,7 @@ Bellingham, WA
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/523proj.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
 
 ## Analysis of a 10 Bar Truss Using a Stiffness Matrix 
 
