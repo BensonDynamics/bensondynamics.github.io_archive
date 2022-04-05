@@ -66,8 +66,14 @@ Tool Gauge (TG) | Tacoma, WA
 - Led sprue picker (robotics) implementation of TG’s next-generation presses.
 - Designed quick-change system for sprue picker end of arm tools.
 - Programmed complicated picking operations for tools with intricate cavities.
+- Challenged the status-quo where appropriate:
 
- 
+ <object data="/docs/HMLV_Rev_1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/docs/HMLV_Rev_1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/HMLV_Rev_1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+ 
 
 ## Associate Civil Engineer
 
