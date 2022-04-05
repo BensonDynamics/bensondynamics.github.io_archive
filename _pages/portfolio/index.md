@@ -181,7 +181,7 @@ Bellingham, WA
 
 ## Deployment of a Jupyterhub Server
 
-<object data="/docs/Deployment of a Jupyterhub Server.pdf"" type="application/pdf" width="700px" height="700px">
+<object data="/docs/Deployment of a Jupyterhub Server.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/docs/Deployment of a Jupyterhub Server.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/docs/Deployment of a Jupyterhub Server.pdf">Download PDF</a>.</p>
     </embed>
